@@ -1,3 +1,1 @@
----
-permalink: dist/index.html
----
+Hello world

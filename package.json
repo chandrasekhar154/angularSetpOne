@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.0.0",
-  "homepage" : "https://chandrasekhar154.github.io/angularSetpOne",
+  "homepage" : "https://chandrasekhar154.github.io/angularSetpOne/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open --port 5200",
